@@ -1,5 +1,5 @@
 #!/bin/bash 
-
+python3 ~/SCC/scripts/create_dir.py
 unzip ~/SCC/input/ECL_graphs/power_law.zip
 unzip ~/SCC/input/mtx_graphs.zip
 
